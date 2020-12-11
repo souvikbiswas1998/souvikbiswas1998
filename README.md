@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=souvikbiswas1998)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **souvikbiswas1998/souvikbiswas1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
