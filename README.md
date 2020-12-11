@@ -3,11 +3,9 @@
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">Github Profile Trophy</h2>
-  ![trophy](https://github-profile-trophy.vercel.app/?username=souvikbiswas1998&row=2&column=3)
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=souvikbiswas1998&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=souvikbiswas1998)
 
 **souvikbiswas1998/souvikbiswas1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
