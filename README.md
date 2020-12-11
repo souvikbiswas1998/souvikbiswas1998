@@ -5,11 +5,14 @@
   <h2 align="center">Github Profile Trophy</h2>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=souvikbiswas1998)
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvikbiswas1998" alt="https://github.com/souvikbiswas1998" /></a> 
+</p>
 
+![](https://komarev.com/ghpvc/?username=souvikbiswas1998)
 <!--
 **souvikbiswas1998/souvikbiswas1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![trophy](https://github-profile-trophy.vercel.app/?username=souvikbiswas1998)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
