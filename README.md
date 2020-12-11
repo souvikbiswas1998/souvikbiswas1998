@@ -7,11 +7,11 @@
   <h2 align="center">Github Profile Trophy</h2>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvikbiswas1998" alt="https://github.com/souvikbiswas1998" /></a> 
-</p>
-
-<!--
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvikbiswas1998&margin-w=12" alt="https://github.com/souvikbiswas1998" /></a> 
+  </p>
+  
+<!--  
 **souvikbiswas1998/souvikbiswas1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![trophy](https://github-profile-trophy.vercel.app/?username=souvikbiswas1998)
 Here are some ideas to get you started:
